@@ -7,6 +7,7 @@ export interface Tool {
   url: string;
   tags: string[];
   notes: string;
+  promo: string;
 }
 
 const containerVariants = {
@@ -41,7 +42,7 @@ function ToolRow({ tool }: { tool: Tool }) {
       href={tool.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group relative flex flex-col gap-3 py-5 border-t border-neutral-300 md:grid md:grid-cols-[minmax(140px,200px)_1fr_auto] md:items-center md:gap-6 md:transition-all md:hover:border-dashed md:[&:hover+a]:border-dashed"
+      className="group relative flex flex-col gap-3 py-5 border-t border-neutral-300 md:grid md:grid-cols-[minmax(140px,200px)_1fr_auto_auto] md:items-center md:gap-6 md:transition-all md:hover:border-dashed md:[&:hover+a]:border-dashed"
       variants={rowVariants}
     >
       {/* Tags column */}
@@ -61,6 +62,15 @@ function ToolRow({ tool }: { tool: Tool }) {
         {tool.notes && (
           <span className="text-[13px] text-neutral-500 font-mono">
             {tool.notes}
+          </span>
+        )}
+      </div>
+
+      {/* Promo column */}
+      <div className="flex items-center md:justify-end">
+        {tool.promo && (
+          <span className="text-[12px] font-mono text-accent">
+            {tool.promo}
           </span>
         )}
       </div>
