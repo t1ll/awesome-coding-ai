@@ -17,6 +17,7 @@ Each row requires:
 | **Name** | ✅ | Tool name as a markdown link: `[Name](https://url.com)` |
 | **Tags** | Optional | Comma-separated tags (see below) |
 | **Notes** | Optional | Brief description, e.g. "Built by Anthropic" |
+| **Promo** | Optional | Short live promotion, e.g. "Go plan $5 first month" — include only verifiable, current offers |
 
 ### Available Tags
 
@@ -26,11 +27,13 @@ Each row requires:
 - `background` — Async/remote execution without active user steering
 - `app-builder` — No-code "vibe coding" web platforms
 - `gui` — Graphic interface for orchestrating agents / swarms
+- `oss` — Open source
+- `extension` — An extension/plugin for an editor or IDE not owned by the product
 
 ## Example
 
 ```markdown
-| [My Tool](https://mytool.dev/) | cli, background | Built by Acme Corp |
+| [My Tool](https://mytool.dev/) | cli, background | Built by Acme Corp | 1 month free |
 ```
 
 ## Guidelines

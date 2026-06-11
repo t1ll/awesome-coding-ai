@@ -6,6 +6,7 @@ export interface Tool {
   url: string;
   tags: string[];
   notes: string;
+  promo: string;
 }
 
 export function parseReadme(): Tool[] {
@@ -36,13 +37,14 @@ export function parseReadme(): Tool[] {
     if (inTable && headerPassed && line.startsWith("|")) {
       const cells = line
         .split("|")
+        .slice(1, -1)
         .map((cell) => cell.trim())
-        .filter((cell) => cell !== "");
 
-      if (cells.length >= 2) {
+      if (cells.length >= 1) {
         const nameCell = cells[0];
         const tagsCell = cells[1] || "";
         const notesCell = cells[2] || "";
+        const promoCell = cells[3] || "";
 
         // Parse markdown link: [Name](url)
         const linkMatch = nameCell.match(/\[([^\]]+)\]\(([^)]+)\)/);
@@ -62,6 +64,7 @@ export function parseReadme(): Tool[] {
             url,
             tags,
             notes: notesCell,
+            promo: promoCell,
           });
         }
       }
