@@ -7,6 +7,7 @@ export interface Tool {
   tags: string[];
   notes: string;
   promo: string;
+  promoUrl: string;
 }
 
 export function parseReadme(): Tool[] {
@@ -48,10 +49,17 @@ export function parseReadme(): Tool[] {
 
         // Parse markdown link: [Name](url)
         const linkMatch = nameCell.match(/\[([^\]]+)\]\(([^)]+)\)/);
+        const promoLinkMatch = promoCell.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
 
         if (linkMatch) {
           const name = linkMatch[1];
           const url = linkMatch[2];
+
+          if (promoCell !== "" && !promoLinkMatch) {
+            throw new Error(
+              `Invalid Promo cell for "${name}": non-empty promos must be Markdown links to a first-party source.`,
+            );
+          }
 
           // Parse tags (comma-separated)
           const tags = tagsCell
@@ -64,7 +72,8 @@ export function parseReadme(): Tool[] {
             url,
             tags,
             notes: notesCell,
-            promo: promoCell,
+            promo: promoLinkMatch ? promoLinkMatch[1] : promoCell,
+            promoUrl: promoLinkMatch ? promoLinkMatch[2] : "",
           });
         }
       }

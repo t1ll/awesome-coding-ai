@@ -16,6 +16,23 @@ tiers, standard trials, referral programs, education/open-source programs, and
 permanent price changes are separated below. “No promotion found” is not proof
 that a private, regional, in-product, or email-only offer does not exist.
 
+## Same-day live re-verification
+
+A second first-party check on July 23 reconciled the research below with the
+live README. Earlier findings remain for provenance, but the current Promo
+column publishes only the 14 source-linked claims in the final recommendation
+table.
+
+| Agent | Re-verification outcome |
+|---|---|
+| Codex | Removed. The February announcement is stale as current evidence: the [current Codex pricing page](https://chatgpt.com/codex/pricing/) and [Help Center](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) no longer advertise 2x limits. |
+| Cursor | Removed. The 2x pool is a permanent eligible-plan change, not a promotion. |
+| Kimchi | Removed. Current pricing supports a free Community tier, not the old $50 launch credit; the evergreen tier is not a promotion. |
+| OpenHands | Removed. The July 2025 post called the $20 grant limited-time, while current product and documentation no longer corroborate it. |
+| Windsurf | Removed. The student URL redirects to Devin Desktop and no longer supports the discount. |
+| Kilo Code | Corrected to Laguna S 2.1 and Hy3, which the current free-model catalog lists; Dola Seed is no longer listed. |
+| Other published rows | Tightened eligibility, price, credit, trial, or end-date wording to match the linked first-party source. |
+
 ## Publishable current promotions
 
 ### Claude Code: 50% higher weekly usage through August 19
@@ -30,7 +47,7 @@ that a private, regional, in-product, or email-only offer does not exist.
   unchanged.
 - **Source:** [Claude Help Center](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion).
 
-Suggested site copy: **50% more weekly usage through Aug 19**
+Suggested site copy: **50% more weekly usage for eligible plans through Aug 19**
 
 ### GitHub Copilot: bonus organization credits and Sonnet 5 pricing
 
@@ -45,7 +62,8 @@ Suggested site copy: **50% more weekly usage through Aug 19**
   $10.00 output.
   [Official model pricing](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing).
 
-Suggested site copy: **Business/Enterprise bonus credits through Sep 1**
+Suggested site copy: **Existing Business/Enterprise customers get higher
+included credits through Sep 1**
 
 ### Qoder: five simultaneous model/credit campaigns
 
@@ -75,38 +93,26 @@ Pro free promotion ended May 20, 2026, according to
    August 15, 2026 at 00:00 UTC. Pro Trial and paid users are eligible.
    [Official rate table](https://docs.qoder.com/events/offpeakrate).
 
-Suggested site copy: **200+ free Ultimate calls through Jul 30; model discounts**
+Suggested site copy: **200 free Ultimate calls for Personal plans through Jul 30**
 
-### Devin Desktop / CLI and Windsurf: SWE-1.7 free preview
+### Devin Desktop / CLI: SWE-1.7 free preview
 
 - **Offer:** Cognition’s SWE-1.7 model is free during its preview.
 - **Period:** through August 8, 2026.
 - **Coverage:** the current official model page explicitly lists Devin Desktop
-  and Devin CLI. The old Windsurf models URL now redirects to this Devin
-  documentation, and the UI described is Cascade. For site labeling, attach
-  the offer to Devin; mentioning it on Windsurf is defensible only if the
-  Windsurf row is being treated as the renamed/legacy desktop product.
+  and Devin CLI. The old Windsurf models URL redirects to this Devin
+  documentation, so the offer is attached only to Devin for Terminal.
 - **Source:** [official Devin model documentation](https://docs.devin.ai/desktop/models).
 
 Suggested site copy: **SWE-1.7 free preview through Aug 8**
 
-### Kilo Code: three free models, plus Next-Edit expiring today
+### Kilo Code: two currently free models
 
-- **Laguna S 2.1:** free for a limited time across the IDE extension, CLI, and
-  Cloud Agents; announced July 21 with no end date.
-  [Official announcement](https://blog.kilo.ai/p/laguna-s-21).
-- **Tencent Hy3:** free for a limited time everywhere Kilo runs; announced
-  July 6 with no end date.
-  [Official announcement](https://blog.kilo.ai/p/from-preview-to-production-tencents).
-- **Dola Seed 2.0 Pro:** free for a limited time across Kilo Code, CLI, and
-  KiloClaw; announced April 3 with no end date.
-  [Official announcement](https://blog.kilo.ai/p/dola-seed-20-pro-is-here-the-multimodal).
-- **Mercury Edit 2 Next-Edit:** free through July 23, 2026 when using Kilo
-  Gateway. This was technically active on the audit date but expires today, so
-  it should not be added to a site without same-day removal automation.
-  [Official announcement](https://blog.kilo.ai/p/announcing-next-edit-in-kilo-powered-by-inception).
+- **Offer:** the current catalog lists Laguna S 2.1 and Hy3 as free. Dola Seed
+  is no longer listed, and the same-day Next-Edit offer is omitted.
+- **Source:** [current Kilo free-model catalog](https://kilo.ai/landing/free-models).
 
-Suggested site copy: **Laguna S 2.1, Hy3 & Dola Seed free for a limited time**
+Suggested site copy: **Laguna S 2.1 and Hy3 currently free**
 
 ### Kiro CLI: startup promotion through July 31
 
@@ -121,7 +127,8 @@ Suggested site copy: **Laguna S 2.1, Hy3 & Dola Seed free for a limited time**
   exhaustion or expiry.
 - **Source:** [official startup promotion terms](https://kiro.dev/startups/terms/).
 
-Suggested site copy: **Up to 1 year Pro+ for eligible startups; apply by Jul 31**
+Suggested site copy: **Eligible AWS startups: complimentary Pro+ and 1 year of
+promo credits; apply by Jul 31**
 
 ### OpenCode: six Zen models free for a limited time
 
@@ -135,15 +142,13 @@ Suggested site copy: **Up to 1 year Pro+ for eligible startups; apply by Jul 31*
 
 Suggested site copy: **6 Zen models free for a limited time**
 
-### OpenHands: $20 in credits for new Cloud users
+### OpenHands: old $20 credit claim removed
 
-- **Offer:** $20 in free OpenHands Cloud credits for new users. The same balance
-  can be used with the OpenHands LLM provider.
-- **Period:** explicitly described as “for a limited time,” with no end date.
-- **Source:** [OpenHands announcement](https://www.openhands.dev/blog/access-state-of-the-art-llm-models-at-cost-via-openhands-gui-and-cli)
-  and [current quick start](https://docs.all-hands.dev/modules/usage/installation).
-
-Suggested site copy: **$20 free Cloud credits for new users**
+- **Earlier evidence:** a July 2025
+  [OpenHands announcement](https://www.openhands.dev/blog/access-state-of-the-art-llm-models-at-cost-via-openhands-gui-and-cli)
+  described $20 in Cloud credits as available “for a limited time.”
+- **Re-verification:** current product and documentation no longer corroborate
+  that grant, so it is not publishable in the live Promo column.
 
 ### ZCode: 1.5x GLM quota through July 31
 
@@ -155,14 +160,17 @@ Suggested site copy: **$20 free Cloud credits for new users**
   daily quotas exist only during the five-day trial.
 - **Source:** [official ZCode documentation](https://zcode.z.ai/en/docs/welcome).
 
-Suggested site copy: **~1.5x GLM quota through Jul 31 + 5-day trial**
+Suggested site copy: **~1.5x GLM quota for Coding Plan subscribers through Jul
+31; 5-day first-user trial**
 
-### Codex: three official offers without fixed end dates
+### Codex: old broad promotion removed
 
-1. OpenAI’s Codex app announcement still says Codex is included with ChatGPT
-   Free and Go, and rate limits are doubled on Plus, Pro, Business, Enterprise,
-   and Edu, **for a limited time**. No end date is stated.
-   [Official announcement](https://openai.com/index/introducing-the-codex-app/).
+1. OpenAI’s February
+   [Codex app announcement](https://openai.com/index/introducing-the-codex-app/)
+   described Free/Go inclusion and doubled paid-plan limits as temporary. The
+   [current Codex pricing page](https://chatgpt.com/codex/pricing/) and
+   [Help Center](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
+   no longer advertise 2x limits. The broad claim is therefore stale and removed.
 2. JetBrains AI includes Codex for free until its allocated promotional credits
    are exhausted, including on JetBrains’ free tier and trial.
    [JetBrains announcement](https://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/).
@@ -177,13 +185,8 @@ Suggested site copy: **~1.5x GLM quota through Jul 31 + 5-day trial**
    [Official promotion article](https://openai.com/index/codex-flexible-pricing-for-teams/)
    and [current eligibility restriction](https://help.openai.com/en/articles/8792828).
 
-The separate US/Canada student credit is listed under ongoing offers below
-because it has no public claim deadline.
-
-Suggested site copy: **2x paid-plan limits; included on Free/Go for a limited time**
-
-Narrow alternative copy for grandfathered teams: **Up to $500 for eligible
-pre-Jun 24 Business workspaces**
+The narrower JetBrains, grandfathered-team, and US/Canada student programs are
+not used as the general Codex Promo cell.
 
 ## Requested current benefit that is not limited-time
 
@@ -197,7 +200,7 @@ pre-Jun 24 Business workspaces**
 - **Sources:** [official Cursor X post](https://x.com/cursor_ai/status/2079615536963485815)
   and [Cursor staff clarification](https://forum.cursor.com/t/now-available-2x-included-usage-your-plan-now-includes-2x-usage-for-all-cursor-models-composer-2-5-and-cursor-grok-4-5/166007/4).
 
-Suggested site copy: **2x usage for Grok, Composer & new Cursor models**
+This permanent benefit is not used in the Promo column.
 
 ## Final site-copy recommendations
 
@@ -207,22 +210,25 @@ for the existing Promo column.
 
 | Agent | Recommendation | Exact short copy |
 |---|---|---|
-| Claude Code | Publish | `50% more weekly usage through Aug 19` |
-| GitHub Copilot | Publish | `Business/Enterprise bonus credits through Sep 1` |
-| Qoder | Publish | `200+ free Ultimate calls through Jul 30` |
+| Augment | Publish | `30,000-credit trial (card required)` |
+| Claude Code | Publish | `50% more weekly usage for eligible plans through Aug 19` |
+| CodeBuddy | Publish | `Pro $9.95/mo (was $19.90)` |
 | Devin for Terminal | Publish | `SWE-1.7 free preview through Aug 8` |
-| Kilo Code | Publish, but omit Next-Edit because it expires today | `Laguna S 2.1, Hy3 & Dola Seed free for a limited time` |
-| Kiro CLI | Publish startup campaign now; replace it with the student offer after Jul 31 if desired | `Up to 1 year Pro+ for eligible startups; apply by Jul 31` |
+| GitHub Copilot | Publish | `Existing Business/Enterprise customers get higher included credits through Sep 1` |
+| IBM Bob | Publish | `30-day trial with 40 Bobcoins` |
+| Junie | Publish | `30-day JetBrains AI Pro trial` |
+| Kilo Code | Publish | `Laguna S 2.1 and Hy3 currently free` |
+| Kiro CLI | Publish startup campaign now; reassess after Jul 31 | `Eligible AWS startups: complimentary Pro+ and 1 year of promo credits; apply by Jul 31` |
+| Ona | Publish | `Up to $200/mo for approved OSS maintainers and contributors` |
 | OpenCode | Publish | `6 Zen models free for a limited time` |
-| OpenHands | Publish | `$20 free Cloud credits for new users` |
-| ZCode | Publish | `~1.5x GLM quota through Jul 31 + 5-day trial` |
-| Codex | Publish the broad offer; keep the narrower team credit in notes rather than the short cell | `2x paid-plan limits; included on Free/Go for a limited time` |
-| Cursor | Publish because the user requested the current benefit, but do not call it a promotion | `2x usage for Grok, Composer & new Cursor models` |
-| Windsurf | Keep the ongoing student offer. Add SWE-1.7 only if this row is intentionally treated as the renamed/legacy Devin Desktop product | `>50% off Pro for verified students` |
+| Qoder | Publish | `200 free Ultimate calls for Personal plans through Jul 30` |
+| Rovo Dev | Publish | `30-day Standard upgrade trial with 2,000 credits/mo` |
+| ZCode | Publish | `~1.5x GLM quota for Coding Plan subscribers through Jul 31; 5-day first-user trial` |
 
 Do **not** publish Kilo Next-Edit beyond July 23, the old Kiro 500-credit
 new-user bonus, the old Kimi voucher, Trae’s old first-month price, Amp’s
-restricted legacy grant, or expired Claude/Gemini/Warp offers.
+restricted legacy grant, expired Claude/Gemini/Warp offers, or the removed
+Codex, Cursor, Kimchi, OpenHands, and Windsurf claims recorded above.
 
 ## Current signup, plan, education, and community offers
 
@@ -234,15 +240,15 @@ include standard trials and eligibility programs.
 |---|---|---|
 | Augment | 30,000-credit trial | Valid payment method required; [official pricing announcement](https://www.augmentcode.com/blog/augment-codes-pricing-is-changing) |
 | IBM Bob | 30-day trial with 40 Bobcoins | [Official trial page](https://bob.ibm.com/trial) |
-| CodeBuddy | Pro currently displays 50% off; first-payment bonus also mentioned | No end date or bonus amount published; [pricing](https://www.codebuddy.ai/docs/ide/Account/pricing), [credits](https://www.codebuddy.ai/docs/ide/Account/credits) |
+| CodeBuddy | Pro displays $9.95/month, down from $19.90 | [Official pricing](https://www.codebuddy.ai/docs/ide/Account/pricing) |
 | Codex | $100 / 2,500 credits for verified degree students in the US or Canada | Free, Go, Plus, and Pro eligible; credits expire 12 months after grant; [terms](https://help.openai.com/en/articles/20001147-codex-credits-for-students-terms-of-service) |
 | Junie | 30-day JetBrains AI Pro trial | [Official docs](https://junie.jetbrains.com/docs/junie-ide-plugin.html) |
 | Kilo Code | Kilo Pass gives first-time monthly subscribers 50% bonus credits in month one; annual plans receive a 50% monthly bonus | Monthly bonus expires each month; [pricing](https://kilo.ai/pricing/kilo-pass), [announcement](https://blog.kilo.ai/p/introducing-kilo-pass) |
-| Kimchi | $50 free signup credits, no card | The old $250 early-access offer is closed; [current announcement](https://kimchi.dev/blog/say-hello-to-kimchi), [pricing](https://kimchi.dev/pricing) |
+| Kimchi | Free Community tier | The old $50 launch credit is not supported by current pricing, and the evergreen free tier is not published as a promotion; [pricing](https://kimchi.dev/pricing) |
 | Kiro CLI | First paid upgrade receives $20 / 1,000 bonus credits; eligible students receive 1,000 credits/month for one year | Paid-upgrade bonus requires social login or Builder ID. Student offer runs from Mar 16 until AWS discontinues it, is limited to listed US/Canadian universities and residents age 18+, and requires SheerID; [paid-upgrade announcement](https://kiro.dev/blog/new-paid-tier-bonus/), [student terms](https://kiro.dev/students/terms-2026/) |
-| Ona | Up to $200 in monthly credits for qualifying open-source maintainers and core contributors | Application and approval required; [official program](https://ona.com/open-source) |
-| Rovo Dev | 30-day Rovo Dev Standard trial with 2,000 credits | Standard product trial; [Atlassian billing docs](https://support.atlassian.com/subscriptions-and-billing/docs/how-billing-works-for-rovo-dev-standard/) |
-| Windsurf | More than 50% off Pro for verified students, for up to 12 consecutive months per activation | Higher-education verification required; [program](https://windsurf.com/windsurf/students), [terms](https://windsurf.com/student-terms-and-conditions) |
+| Ona | Up to $200/month for approved open-source maintainers and contributors | Application and approval required; [official program](https://ona.com/open-source) |
+| Rovo Dev | 30-day Rovo Dev Standard upgrade trial with 2,000 credits/month | Standard product trial; [Atlassian billing docs](https://support.atlassian.com/subscriptions-and-billing/docs/how-billing-works-for-rovo-dev-standard/) |
+| Windsurf | No current publishable promotion | The former student URL redirects to Devin Desktop and no longer supports the discount. |
 
 Amp’s historical “$10/day free usage” should be removed or qualified. Amp says
 new admission to Amp Free is closed and grants have been paused or reduced for
@@ -266,7 +272,7 @@ vendor exposes them. Entries tied to a promotion above link back to its source.
 | Antigravity CLI (`antigravity-cli`) | [Antigravity](https://antigravity.google/) | No current limited-time promotion found; same product surfaces checked |
 | AstrBot (`astrbot`) | [Repository](https://github.com/AstrBotDevs/AstrBot) | No current limited-time promotion found; repository/docs checked |
 | Autohand Code CLI (`autohand-code`) | [Autohand](https://autohand.ai/code/) | No current limited-time promotion found; homepage/repository checked |
-| Augment (`augment`) | [Augment](https://www.augmentcode.com/) | Ongoing 30,000-credit product trial; homepage/pricing/blog checked |
+| Augment (`augment`) | [Augment](https://www.augmentcode.com/) | Ongoing 30,000-credit product trial requiring a card; homepage/pricing/blog checked |
 | IBM Bob (`bob`) | [IBM Bob](https://www.ibm.com/products/bob) | Ongoing 30-day/40-Bobcoin trial; product/download/trial pages checked |
 | Claude Code (`claude-code`) | [Claude Code](https://www.claude.com/product/claude-code) | **Active dated promotion:** 50% higher weekly limits through Aug 19 |
 | OpenClaw (`openclaw`) | [OpenClaw](https://openclaw.ai/) | No current limited-time promotion found; homepage/docs/repository checked |
@@ -277,10 +283,10 @@ vendor exposes them. Entries tied to a promotion above link back to its source.
 | Warp (`warp`) | [Warp](https://www.warp.dev/) | No current limited-time promotion found; Feb 2026 cloud-agent bonus expired; pricing/blog checked |
 | Zed (`zed`) | [Zed](https://zed.dev/) | No current limited-time promotion found; homepage/pricing/blog checked |
 | CodeArts Agent (`codearts-agent`) | [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/product/codearts.html) | No current limited-time promotion found; product/pricing/docs checked |
-| CodeBuddy (`codebuddy`) | [CodeBuddy](https://www.codebuddy.ai/) | Current undated 50%-off display; homepage/pricing/credits docs checked |
+| CodeBuddy (`codebuddy`) | [CodeBuddy](https://www.codebuddy.ai/) | Current Pro display is $9.95/month, down from $19.90; homepage/pricing checked |
 | Codemaker (`codemaker`) | [Codemaker](https://codemaker.ai/) | No current limited-time promotion found; homepage/pricing/docs checked |
 | Code Studio (`codestudio`) | [Syncfusion](https://www.syncfusion.com/code-studio/) | No current limited-time promotion found; product/pricing/blog checked |
-| Codex (`codex`) | [OpenAI Codex](https://openai.com/codex/) | **Active limited-time offers with no fixed end:** Free/Go inclusion, 2x paid limits, JetBrains credits, and up to $500 for grandfathered pre-Jun 24 Business workspaces |
+| Codex (`codex`) | [OpenAI Codex](https://openai.com/codex/) | Broad Free/Go and 2x claim removed as stale after same-day re-verification; narrower JetBrains, grandfathered-team, and student programs are not used in the Promo cell |
 | Command Code (`command-code`) | [Command Code](https://commandcode.ai/) | No current limited-time promotion found; homepage/pricing/docs checked |
 | Continue (`continue`) | [Continue](https://continue.dev/) | No current limited-time promotion found; homepage/pricing/docs/blog checked |
 | Cortex Code (`cortex`) | [Snowflake Cortex](https://www.snowflake.com/en/product/features/cortex/) | No current limited-time promotion found; product/pricing/docs checked |
@@ -301,8 +307,8 @@ vendor exposes them. Entries tied to a promotion above link back to its source.
 | Jazz (`jazz`) | [Repository](https://github.com/lvndry/jazz) | No current limited-time promotion found; repository checked |
 | Junie (`junie`) | [Junie](https://www.jetbrains.com/junie/) | Ongoing 30-day JetBrains AI Pro trial; product/docs/pricing/blog checked |
 | iFlow CLI (`iflow-cli`) | [Shutdown notice](https://vibex.iflow.cn/t/topic/4819) | Discontinued: maintenance stopped Mar 20 and coding service shut Apr 17, 2026 |
-| Kilo Code (`kilo`) | [Kilo](https://kilo.ai/) | **Active:** Laguna S 2.1, Hy3, and Dola Seed 2.0 Pro free for limited periods with no stated end; Next-Edit expires Jul 23; Kilo Pass bonus is ongoing |
-| Kimchi (`kimchi`) | [Kimchi](https://kimchi.dev/) | Ongoing $50 signup credits; old $250 early-access offer closed |
+| Kilo Code (`kilo`) | [Kilo](https://kilo.ai/) | **Active:** current catalog lists Laguna S 2.1 and Hy3 as free; Dola Seed is no longer listed |
+| Kimchi (`kimchi`) | [Kimchi](https://kimchi.dev/) | No current promotion: pricing supports an evergreen free Community tier, not the old $50 launch credit |
 | Kiro CLI (`kiro-cli`) | [Kiro](https://kiro.dev/) | **Active dated promotion:** eligible startups can apply through Jul 31 for up to one year Pro+ credits; separate student and first-paid-upgrade offers are ongoing |
 | Kode (`kode`) | [Repository](https://github.com/shareAI-lab/kode) | No current limited-time promotion found; repository checked |
 | Lingma (`lingma`) | [Lingma](https://lingma.aliyun.com/) | Renamed to Qoder CN; prior Pro free promotion ended May 20 |
@@ -311,21 +317,21 @@ vendor exposes them. Entries tied to a promotion above link back to its source.
 | Moxby (`moxby`) | [Moxby](https://moxby.com/) | No current limited-time promotion found; homepage/pricing/docs checked |
 | Mux (`mux`) | [Repository](https://github.com/coder/mux) | No current limited-time promotion found; repository/docs checked |
 | OpenCode (`opencode`) | [OpenCode](https://opencode.ai/) | **Active:** six Zen models free for a limited time, end date unstated |
-| OpenHands (`openhands`) | [OpenHands](https://www.openhands.dev/) | **Active:** $20 new-user Cloud credits for a limited time, end date unstated |
+| OpenHands (`openhands`) | [OpenHands](https://www.openhands.dev/) | Old $20 limited-time grant is no longer corroborated by current product or documentation; removed from the Promo column |
 | Ona (`ona`) | [Ona](https://ona.com/) | Ongoing open-source credits program, not a dated campaign |
 | Pi (`pi`) | [Repository](https://github.com/badlogic/pi-mono) | No current limited-time promotion found; repository/docs checked |
 | Qoder (`qoder`) | [Qoder](https://qoder.com/) | **Active:** five model/credit promotions; see detailed section |
 | Qoder CN (`qoder-cn`) | [Qoder CN billing](https://www.alibabacloud.com/help/en/lingma/product-overview/billing-description) | No active promotion found; prior Pro free offer ended May 20 |
 | Qwen Code (`qwen-code`) | [Repository](https://github.com/QwenLM/qwen-code) | No current limited-time promotion found; repository/docs/releases checked |
 | Reasonix (`reasonix`) | [Reasonix](https://reasonix.homes/) | No current limited-time promotion found; homepage/repository checked |
-| Rovo Dev (`rovodev`) | [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | Ongoing 30-day Standard trial; Apr 30 Opus discount expired |
+| Rovo Dev (`rovodev`) | [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | Ongoing 30-day Standard upgrade trial with 2,000 credits/month; Apr 30 Opus discount expired |
 | Roo Code (`roo`) | [Roo Code](https://roocode.com/) | No current limited-time promotion found; homepage/pricing/docs/blog checked |
 | Tabnine CLI (`tabnine-cli`) | [Tabnine](https://www.tabnine.com/) | No current limited-time promotion found; pricing/docs/blog checked |
 | Terramind (`terramind`) | [Terramind](https://nucleus.terramind.com/) | No current limited-time promotion found; homepage/docs/repository checked |
 | Tinycloud (`tinycloud`) | [Tinycloud](https://tinycloud.sh/) | No current limited-time promotion found; homepage/docs/repository checked |
 | Trae (`trae`) | [TRAE](https://www.trae.ai/) | No verifiable current campaign terms found; homepage/pricing/blog checked. Old “$3 first month” copy is obsolete |
 | Trae CN (`trae-cn`) | [TRAE CN](https://www.trae.cn/) | No current general coding-agent promotion found; homepage/community official-events section checked |
-| Windsurf (`windsurf`) | [Windsurf](https://windsurf.com/) | Official models URL redirects to Devin’s SWE-1.7 free-preview terms through Aug 8; ongoing verified-student discount is separate |
+| Windsurf (`windsurf`) | [Windsurf](https://windsurf.com/) | No current publishable promotion: the former student URL redirects to Devin Desktop, and SWE-1.7 is attached only to Devin for Terminal |
 | ZCode (`zcode`) | [ZCode](https://zcode.z.ai/en) | **Active dated promotion:** ~1.5x GLM Coding Plan quota through Jul 31; first-time users also receive a five-day, 5M-token/day trial |
 | Zencoder (`zencoder`) | [Zencoder](https://zencoder.ai/) | No current limited-time promotion found; homepage/pricing/docs/changelog checked |
 | Zenflow (`zenflow`) | [Zenflow download](https://zencoder.ai/download) | No current limited-time promotion found; product/pricing/docs/changelog checked |

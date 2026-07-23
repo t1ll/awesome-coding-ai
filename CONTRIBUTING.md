@@ -17,7 +17,7 @@ Each row requires:
 | **Name** | ✅ | Tool name as a markdown link: `[Name](https://url.com)` |
 | **Tags** | Optional | Comma-separated tags (see below) |
 | **Notes** | Optional | Brief description, e.g. "Built by Anthropic" |
-| **Promo** | Optional | Short live promotion with an official first-party source and verification date |
+| **Promo** | Optional | Short live promotion as a markdown link to an official first-party source |
 
 ### Available Tags
 
@@ -33,7 +33,7 @@ Each row requires:
 ## Example
 
 ```markdown
-| [My Tool](https://mytool.dev/) | cli, background | Built by Acme Corp | 1 month free |
+| [My Tool](https://mytool.dev/) | cli, background | Built by Acme Corp | [1 month free](https://mytool.dev/promo-terms) |
 ```
 
 ## Guidelines
@@ -42,5 +42,6 @@ Each row requires:
 - Verify the URL works
 - Only include publicly available tools
 - For promo changes, link an official product, documentation, support, blog, or
-  social source in the pull request and state the date you verified the offer.
-  Include a concrete end date in the table when the vendor publishes one.
+  social source directly from the Promo cell and state the date you verified
+  the offer in the pull request. Include a concrete end date in the table when
+  the vendor publishes one.
