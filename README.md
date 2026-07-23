@@ -15,7 +15,9 @@
 | Name | Tags | Notes | Promo |
 |------|------|-------|-------|
 | [AdaL](https://sylph.ai/) | cli | Self-evolving agent by SylphAI | |
-| [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete) | extension | Alternative inline suggestion for GitHub Copilot | |
+| [Agent Island](https://www.agent-island.dev/) | oss | Local status companion for Claude Code and Codex | |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | cli, oss | Local TUI and reports for coding-agent session observability | |
+| [AI-Autocomplete](https://github.com/fsiovn/ai-autocomplete) | extension, oss | Lightweight BYOK inline code autocomplete for VS Code | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
 | [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | |
 | [Antigravity](https://antigravity.google/) | ide | Built by Google | |
@@ -24,6 +26,7 @@
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | oss | Chatbot platform with agent skills | |
 | [Augment](https://www.augmentcode.com/) | cli | | 30,000-credit trial |
 | [Autohand Code CLI](https://autohand.ai/code/) | cli, oss | Free with your own keys or local models | |
+| [Better Agent](https://github.com/ofekron/better-agent) | gui | Local workspace for parallel coding-agent CLI sessions | |
 | [Bolt AI](https://bolt.new/) | app-builder | | |
 | [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli | | |
 | [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | 50% more weekly usage through Aug 19 |
@@ -76,12 +79,16 @@
 | [Mistral Vibe](https://mistral.ai/products/vibe/code/) | own-model, cli, oss | Built by Mistral | |
 | [Moxby](https://moxby.com/) | gui | Wraps Claude Code, Codex & Gemini | |
 | [Mux](https://github.com/coder/mux) | gui, oss | Built by Coder | |
+| [Nanocoder](https://github.com/Nano-Collective/nanocoder) | cli, oss | Local-first, multi-provider terminal coding agent | |
 | [Neovate](https://neovateai.dev/) | cli, oss | | |
 | [Ona](https://ona.com/) | background | Formerly Gitpod | Up to $200 in monthly credits for qualifying OSS contributors |
 | [OpenClaw](https://openclaw.ai/) | oss | Personal agent that also codes | |
 | [OpenCode](https://opencode.ai/) | cli, oss | | 6 Zen models free for a limited time |
+| [OpenCode Mobile](https://github.com/dzianisv/opencode-mobile) | gui, oss | Android client for self-hosted OpenCode coding sessions | |
 | [OpenHands](https://www.openhands.dev/) | background, oss | | $20 free Cloud credits for new users |
+| [OpenPaw](https://github.com/daxaur/openpaw) | oss | Setup wizard that turns Claude Code into a personal assistant | |
 | [Orchids](https://www.orchids.app/) | app-builder | | |
+| [Parallel Code](https://parallelcode.app/) | gui, oss | Desktop workspace for parallel coding-agent CLIs in isolated worktrees | |
 | [Pi](https://github.com/badlogic/pi-mono) | cli, oss | | |
 | [Pochi](https://getpochi.com/) | extension, oss | Built by TabbyML | |
 | [PromptScript](https://getpromptscript.dev/) | oss | Compiles .prs prompts to agent configs | |
@@ -93,6 +100,7 @@
 | [Roo Code](https://roocode.com/) | oss | | |
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | cli | | 30-day Standard trial with 2,000 credits |
 | [Scott AI](https://www.tryscott.ai/) | gui | | |
+| [Shep](https://github.com/shep-ai/shep) | cli, gui, oss | Local-first orchestrator for coding-agent CLIs in parallel worktrees | |
 | [Tabnine](https://www.tabnine.com/) | extension | | |
 | [Tabnine CLI](https://www.tabnine.com/) | cli | Tabnine's terminal agent | |
 | [Terragon](https://www.terragonlabs.com/) | gui | | |
