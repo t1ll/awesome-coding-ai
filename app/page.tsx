@@ -3,6 +3,7 @@ import { parseReadme } from "@/lib/parseReadme";
 import { ToolList } from "./components/ToolList";
 
 const REPO_URL = "https://github.com/ohong/awesome-coding-ai";
+const PROMO_AUDIT_URL = `${REPO_URL}/blob/main/docs/research/coding-agent-promotions-2026-07-23.md`;
 
 export default function Home() {
   const tools = parseReadme();
@@ -34,6 +35,18 @@ export default function Home() {
           </div>
           <p className="text-neutral-500 text-[15px] font-mono md:whitespace-nowrap">
             Hit the usage limit on your AI coding tool again? Give one of these a shot!
+          </p>
+          <p className="mt-3 text-[12px] font-mono text-neutral-400">
+            Promotions verified July 23, 2026.{" "}
+            <a
+              href={PROMO_AUDIT_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent underline hover:text-orange-700 transition-colors"
+            >
+              Review the first-party sources
+            </a>
+            .
           </p>
         </header>
 

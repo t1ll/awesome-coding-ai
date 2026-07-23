@@ -42,7 +42,7 @@ function ToolRow({ tool }: { tool: Tool }) {
       href={tool.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group relative flex flex-col gap-3 py-5 border-t border-neutral-300 md:grid md:grid-cols-[minmax(140px,200px)_1fr_auto_auto] md:items-center md:gap-6 md:transition-all md:hover:border-dashed md:[&:hover+a]:border-dashed"
+      className="group relative flex flex-col gap-3 py-5 border-t border-neutral-300 md:grid md:grid-cols-[minmax(120px,160px)_minmax(160px,1fr)_minmax(180px,280px)_auto] md:items-center md:gap-5 md:transition-all md:hover:border-dashed md:[&:hover+a]:border-dashed"
       variants={rowVariants}
     >
       {/* Tags column */}
@@ -69,7 +69,7 @@ function ToolRow({ tool }: { tool: Tool }) {
       {/* Promo column */}
       <div className="flex items-center md:justify-end">
         {tool.promo && (
-          <span className="text-[12px] font-mono text-accent">
+          <span className="text-[12px] leading-relaxed font-mono text-accent md:text-right">
             {tool.promo}
           </span>
         )}

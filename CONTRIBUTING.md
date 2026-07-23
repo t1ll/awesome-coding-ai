@@ -17,7 +17,7 @@ Each row requires:
 | **Name** | ✅ | Tool name as a markdown link: `[Name](https://url.com)` |
 | **Tags** | Optional | Comma-separated tags (see below) |
 | **Notes** | Optional | Brief description, e.g. "Built by Anthropic" |
-| **Promo** | Optional | Short live promotion, e.g. "Go plan $5 first month" — include only verifiable, current offers |
+| **Promo** | Optional | Short live promotion with an official first-party source and verification date |
 
 ### Available Tags
 
@@ -41,3 +41,6 @@ Each row requires:
 - Keep entries alphabetically sorted
 - Verify the URL works
 - Only include publicly available tools
+- For promo changes, link an official product, documentation, support, blog, or
+  social source in the pull request and state the date you verified the offer.
+  Include a concrete end date in the table when the vendor publishes one.

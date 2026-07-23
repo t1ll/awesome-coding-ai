@@ -17,87 +17,103 @@
 | [AdaL](https://sylph.ai/) | cli | Self-evolving agent by SylphAI | |
 | [AI-Autocomplete](https://marketplace.visualstudio.com/items?itemName=fsiovn.ai-autocomplete) | extension | Alternative inline suggestion for GitHub Copilot | |
 | [AiderDesk](https://github.com/hotovo/aider-desk) | gui, oss | Desktop GUI for Aider | |
-| [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | $10/day free usage |
+| [Amp](https://ampcode.com/) | cli | Built by Sourcegraph | |
 | [Antigravity](https://antigravity.google/) | ide | Built by Google | |
+| [Antigravity CLI](https://antigravity.google/) | cli | Google terminal agent; successor to Gemini CLI | |
 | [Anything](https://www.createanything.com/) | app-builder | | |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | oss | Chatbot platform with agent skills | |
-| [Augment Code](https://www.augmentcode.com/) | cli | | 30k-credit free trial |
-| [Autohand Code](https://autohand.ai/code/) | cli, oss | Free with your own keys or local models | |
+| [Augment](https://www.augmentcode.com/) | cli | | 30,000-credit trial |
+| [Autohand Code CLI](https://autohand.ai/code/) | cli, oss | Free with your own keys or local models | |
 | [Bolt AI](https://bolt.new/) | app-builder | | |
 | [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code) | cli | | |
-| [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | Fable 5 included in plans until Jun 22 |
+| [Claude Code](https://www.claude.com/product/claude-code) | own-model, cli, background | Built by Anthropic | 50% more weekly usage through Aug 19 |
 | [Cline](https://cline.bot/) | | | |
 | [cmux](https://www.cmux.dev/) | gui | | |
 | [Code Studio](https://www.syncfusion.com/code-studio/) | ide | Built by Syncfusion | |
 | [CodeArts Agent](https://www.huaweicloud.com/intl/en-us/product/codearts.html) | ide | Built by Huawei Cloud | |
-| [CodeBuddy](https://www.codebuddy.ai/) | ide | Built by Tencent | 50 free Craft credits/day |
-| [CodeMaker AI](https://codemaker.ai/) | extension | | |
-| [Codex](https://openai.com/codex/) | own-model, cli, background | Built by OpenAI | |
+| [CodeBuddy](https://www.codebuddy.ai/) | ide | Built by Tencent | Pro currently 50% off |
+| [Codemaker](https://codemaker.ai/) | extension | | |
+| [Codex](https://openai.com/codex/) | own-model, cli, background | Built by OpenAI | 2x paid-plan limits; Free/Go included for a limited time |
 | [Command Code](https://commandcode.ai/) | cli | | |
 | [Conductor](https://conductor.build/) | gui | | |
 | [Continue](https://continue.dev/) | cli, oss | | |
 | [Cortex Code](https://www.snowflake.com/en/product/features/cortex/) | cli | Built by Snowflake | |
 | [Crush](https://github.com/charmbracelet/crush) | cli, oss | Built by Charm | |
 | [CTO.new](https://cto.new/) | gui | | |
-| [Cursor](https://cursor.com/) | ide, background | | Free year of Pro for students |
+| [Cursor](https://cursor.com/) | ide, background | | 2x usage for Grok, Composer & new Cursor models |
 | [Deep Agents](https://github.com/langchain-ai/deepagents) | oss | Built by LangChain | |
 | [Devin](https://devin.ai/) | background | Built by Cognition | |
+| [Devin for Terminal](https://docs.devin.ai/desktop/models) | cli | Cognition's terminal agent | SWE-1.7 free preview through Aug 8 |
 | [Dexto](https://github.com/truffle-ai/dexto) | cli, oss | Agent harness by Truffle AI | |
+| [Droid](https://factory.ai/) | cli, background | Factory's agent | |
 | [Emergent](https://emergent.sh/) | app-builder | | |
-| [Factory](https://factory.ai/) | cli, background | | 10M free tokens for new signups |
+| [Eve](https://vercel.com/blog/introducing-eve) | cli | Agent framework built by Vercel | |
 | [Firebender](https://firebender.com/) | extension | Agent for Android Studio | |
 | [ForgeCode](https://forgecode.dev/) | cli | | |
-| [Gemini CLI](https://geminicli.com/) | own-model, cli | | Free 1,000 reqs/day until Jun 18 |
-| [GitHub Copilot](https://github.com/features/copilot) | | | |
+| [Gemini CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) | own-model, cli | Consumer service retired Jun 18, 2026; use Antigravity CLI | |
+| [GitHub Copilot](https://github.com/features/copilot) | | | Business/Enterprise bonus credits through Sep 1 |
 | [Google AI Studio](https://aistudio.google.com/) | app-builder | | |
 | [Goose](https://block.github.io/goose/) | cli, oss | Built by Block | |
+| [Grok Build](https://x.ai/news/grok-build-cli) | own-model, cli | Built by xAI | |
 | [Hermes Agent](https://hermes-agent.nousresearch.com/) | cli, oss | Built by Nous Research | |
-| [IBM Bob](https://www.ibm.com/products/bob) | ide | Built by IBM | |
+| [IBM Bob](https://www.ibm.com/products/bob) | ide | Built by IBM | 30-day trial with 40 Bobcoins |
+| [iFlow CLI](https://vibex.iflow.cn/t/topic/4819) | cli | Discontinued Apr 17, 2026 | |
 | [inference.sh](https://inference.sh/) | gui, oss | | |
 | [Jazz](https://github.com/lvndry/jazz) | cli, oss | | |
 | [Jules](https://jules.google/) | background | Async coding agent from Google Labs | |
 | [Junie](https://www.jetbrains.com/junie/) | extension | Built by JetBrains | 30-day AI Pro trial |
-| [Kilo Code](https://kilo.ai/) | oss | | |
-| [Kimi Code](https://www.kimi.com/code) | own-model, cli, oss | Built by Moonshot AI | Top up $5, get a $5 voucher |
-| [Kiro](https://kiro.dev/) | ide | Built by Amazon Web Services | 500 bonus credits for new users |
+| [Kilo Code](https://kilo.ai/) | oss | | Laguna S 2.1, Hy3 & Dola Seed free for a limited time |
+| [Kimchi](https://kimchi.dev/) | cli, oss | Coding platform for open-source models | $50 free signup credits; no card |
+| [Kimi Code CLI](https://www.kimi.com/code/docs/en/) | own-model, cli, oss | Built by Moonshot AI | |
+| [Kiro](https://kiro.dev/) | ide | Built by Amazon Web Services | |
+| [Kiro CLI](https://kiro.dev/) | cli | Built by Amazon Web Services | Up to 1 year Pro+ for eligible startups; apply by Jul 31 |
 | [Kode](https://github.com/shareAI-lab/kode) | cli, oss | | |
-| [Lingma](https://lingma.aliyun.com/) | extension | Built by Alibaba | |
+| [Lingma](https://lingma.aliyun.com/) | extension | Renamed to Qoder CN | |
+| [Loaf](https://github.com/levifig/loaf) | cli, oss | Agent harness and framework | |
 | [Lovable](https://lovable.dev/) | app-builder | | |
 | [Magic Patterns](https://www.magicpatterns.com/) | app-builder | | |
 | [MCPJam](https://www.mcpjam.com/) | oss | MCP testing platform with skills support | |
-| [Mistral Vibe](https://mistral.ai/products/vibe/code/) | own-model, cli, oss | Built by Mistral | Devstral 2 API free at launch |
+| [Mistral Vibe](https://mistral.ai/products/vibe/code/) | own-model, cli, oss | Built by Mistral | |
 | [Moxby](https://moxby.com/) | gui | Wraps Claude Code, Codex & Gemini | |
 | [Mux](https://github.com/coder/mux) | gui, oss | Built by Coder | |
 | [Neovate](https://neovateai.dev/) | cli, oss | | |
-| [Ona](https://ona.com/) | background | Formerly Gitpod | $10 free credits to start |
+| [Ona](https://ona.com/) | background | Formerly Gitpod | Up to $200 in monthly credits for qualifying OSS contributors |
 | [OpenClaw](https://openclaw.ai/) | oss | Personal agent that also codes | |
-| [OpenCode](https://opencode.ai/) | cli, oss | | Go plan $5 first month |
-| [OpenHands](https://www.openhands.dev/) | background, oss | | $20 free cloud credits |
+| [OpenCode](https://opencode.ai/) | cli, oss | | 6 Zen models free for a limited time |
+| [OpenHands](https://www.openhands.dev/) | background, oss | | $20 free Cloud credits for new users |
 | [Orchids](https://www.orchids.app/) | app-builder | | |
 | [Pi](https://github.com/badlogic/pi-mono) | cli, oss | | |
 | [Pochi](https://getpochi.com/) | extension, oss | Built by TabbyML | |
 | [PromptScript](https://getpromptscript.dev/) | oss | Compiles .prs prompts to agent configs | |
-| [Qoder](https://qoder.com/) | ide | Built by Alibaba | Ultimate tier 50% off (limited time) |
+| [Qoder](https://qoder.com/) | ide | Built by Alibaba | 200+ free Ultimate calls through Jul 30 |
+| [Qoder CN](https://www.alibabacloud.com/help/en/lingma/billing-description) | ide | Alibaba's regional Qoder product | |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | cli, oss | Built by Alibaba | |
 | [Reasonix](https://reasonix.homes/) | cli, oss | DeepSeek-native terminal agent | |
 | [Replit](https://replit.com/) | app-builder | | |
 | [Roo Code](https://roocode.com/) | oss | | |
-| [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | cli | | |
+| [Rovo Dev](https://www.atlassian.com/software/rovo-dev) | cli | | 30-day Standard trial with 2,000 credits |
 | [Scott AI](https://www.tryscott.ai/) | gui | | |
 | [Tabnine](https://www.tabnine.com/) | extension | | |
+| [Tabnine CLI](https://www.tabnine.com/) | cli | Tabnine's terminal agent | |
 | [Terragon](https://www.terragonlabs.com/) | gui | | |
 | [Terramind](https://nucleus.terramind.com/) | cli | | |
 | [Tinycloud](https://tinycloud.sh/) | cli | Agent CLI for deep video work | |
-| [Trae](https://www.trae.ai/) | ide | Built by ByteDance | Pro $3 first month |
+| [Trae](https://www.trae.ai/) | ide | Built by ByteDance | |
+| [Trae CN](https://www.trae.cn/) | ide | ByteDance's regional Trae product | |
+| [Universal](https://github.com/vercel-labs/skills#supported-agents) | | Generic adapter target for unsupported agents | |
 | [v0](https://v0.app/) | app-builder | Built by Vercel | |
 | [Vibe Kanban](https://www.vibekanban.com/) | gui | | |
 | [Warp](https://www.warp.dev/) | cli | | |
-| [Windsurf](https://windsurf.com/) | ide | Acquired by Cognition | ~50% off Pro for students |
+| [Windsurf](https://windsurf.com/) | ide | Acquired by Cognition | >50% off Pro for verified students |
+| [ZCode](https://zcode.z.ai/en) | gui | Desktop coding agent optimized for GLM | ~1.5x GLM quota through Jul 31 + 5-day trial |
 | [Zed](https://zed.dev/) | ide | Technically a code editor, not an IDE | |
 | [Zencoder](https://zencoder.ai/) | extension | | |
+| [Zenflow](https://zencoder.ai/download) | gui | Zencoder's desktop multi-agent orchestrator | |
 | *[Add your tool here](https://example.com/)* | *tags* | *notes* | |
 
-Promos last checked **June 10, 2026** — these offers change quickly; please open a PR if one has expired or a new one launched.
+*Universal is a generic adapter target rather than a standalone product. Regional and product aliases are listed separately to match the [supported-agent registry](https://github.com/vercel-labs/skills#supported-agents).*
+
+Promos last checked **July 23, 2026** against [first-party sources in the promotion audit](docs/research/coding-agent-promotions-2026-07-23.md). These offers change quickly; please open a PR if one has expired or a new one launched.
 
 Please open a PR if you’d like to add a new AI coding tool you’ve been enjoying or to propose a correction!
 
