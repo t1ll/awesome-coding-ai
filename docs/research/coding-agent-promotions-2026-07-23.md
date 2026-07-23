@@ -20,13 +20,14 @@ that a private, regional, in-product, or email-only offer does not exist.
 
 A second first-party check on July 23 reconciled the research below with the
 live README. Earlier findings remain for provenance, but the current Promo
-column publishes only the 14 source-linked claims in the final recommendation
-table.
+column publishes the 15 source-linked claims in the final recommendation table.
+Cursor's permanent 2x included-usage benefit is an intentional exception to the
+otherwise promotion-focused column because it is a current, material plan benefit.
 
 | Agent | Re-verification outcome |
 |---|---|
 | Codex | Removed. The February announcement is stale as current evidence: the [current Codex pricing page](https://chatgpt.com/codex/pricing/) and [Help Center](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) no longer advertise 2x limits. |
-| Cursor | Removed. The 2x pool is a permanent eligible-plan change, not a promotion. |
+| Cursor | Published by design. Eligible self-serve Pro, Pro+, Ultra, and Teams plans receive 2x included usage for Cursor's first-party models; the benefit is permanent rather than limited-time. |
 | Kimchi | Removed. Current pricing supports a free Community tier, not the old $50 launch credit; the evergreen tier is not a promotion. |
 | OpenHands | Removed. The July 2025 post called the $20 grant limited-time, while current product and documentation no longer corroborate it. |
 | Windsurf | Removed. The student URL redirects to Devin Desktop and no longer supports the discount. |
@@ -192,15 +193,19 @@ not used as the general Codex Promo cell.
 
 ### Cursor: doubled included usage
 
-- **Offer:** Cursor doubled included usage on all individual and Teams plans for
-  Grok, Composer, and new Cursor models.
+- **Offer:** Cursor doubled included usage for its first-party Auto, Composer
+  2.5, and Cursor Grok 4.5 models on eligible self-serve Pro, Pro+, Ultra, and
+  Teams plans. Third-party models are not included.
 - **Announced:** July 21, 2026.
 - **Period:** no end date. Cursor staff explicitly clarified that the change is
   permanent, so it should not be described as a limited-time promotion.
+- **Not included:** the separate temporary 50% Cursor Grok discount ended July
+  21 and is not claimed in the live list.
 - **Sources:** [official Cursor X post](https://x.com/cursor_ai/status/2079615536963485815)
   and [Cursor staff clarification](https://forum.cursor.com/t/now-available-2x-included-usage-your-plan-now-includes-2x-usage-for-all-cursor-models-composer-2-5-and-cursor-grok-4-5/166007/4).
 
-This permanent benefit is not used in the Promo column.
+This permanent benefit is intentionally shown in the Promo column so users can
+discover the current 2x benefit through the promo-only filter.
 
 ## Final site-copy recommendations
 
@@ -213,6 +218,7 @@ for the existing Promo column.
 | Augment | Publish | `30,000-credit trial (card required)` |
 | Claude Code | Publish | `50% more weekly usage for eligible plans through Aug 19` |
 | CodeBuddy | Publish | `Pro $9.95/mo (was $19.90)` |
+| Cursor | Publish by design (permanent benefit) | `2x included usage for Cursor models on eligible plans` |
 | Devin for Terminal | Publish | `SWE-1.7 free preview through Aug 8` |
 | GitHub Copilot | Publish | `Existing Business/Enterprise customers get higher included credits through Sep 1` |
 | IBM Bob | Publish | `30-day trial with 40 Bobcoins` |
@@ -228,7 +234,9 @@ for the existing Promo column.
 Do **not** publish Kilo Next-Edit beyond July 23, the old Kiro 500-credit
 new-user bonus, the old Kimi voucher, Trae’s old first-month price, Amp’s
 restricted legacy grant, expired Claude/Gemini/Warp offers, or the removed
-Codex, Cursor, Kimchi, OpenHands, and Windsurf claims recorded above.
+Codex, Kimchi, OpenHands, and Windsurf claims recorded above. Do not publish
+Cursor's expired 50% Grok discount; the current 2x first-party-model benefit is
+the only Cursor claim used in the live list.
 
 ## Current signup, plan, education, and community offers
 
@@ -291,7 +299,7 @@ vendor exposes them. Entries tied to a promotion above link back to its source.
 | Continue (`continue`) | [Continue](https://continue.dev/) | No current limited-time promotion found; homepage/pricing/docs/blog checked |
 | Cortex Code (`cortex`) | [Snowflake Cortex](https://www.snowflake.com/en/product/features/cortex/) | No current limited-time promotion found; product/pricing/docs checked |
 | Crush (`crush`) | [Repository](https://github.com/charmbracelet/crush) | No current limited-time promotion found; repository/releases checked |
-| Cursor (`cursor`) | [Cursor](https://cursor.com/) | 2x included usage is current but permanent, not limited-time |
+| Cursor (`cursor`) | [Cursor](https://cursor.com/) | **Published current permanent benefit:** eligible self-serve Pro, Pro+, Ultra, and Teams plans receive 2x included usage for Auto, Composer 2.5, and Cursor Grok 4.5; third-party models are excluded |
 | Deep Agents (`deepagents`) | [Repository](https://github.com/langchain-ai/deepagents) | No current limited-time promotion found; repository/docs checked |
 | Devin for Terminal (`devin`) | [Devin docs](https://docs.devin.ai/desktop/models) | **Active dated promotion:** SWE-1.7 free preview through Aug 8 in Devin Desktop and CLI |
 | Droid (`droid`) | [Factory](https://factory.ai/) | No current first-party limited-time promotion found; homepage/pricing/docs/blog checked |

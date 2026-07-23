@@ -43,7 +43,7 @@
 | [Cortex Code](https://www.snowflake.com/en/product/features/cortex/) | cli | Built by Snowflake | |
 | [Crush](https://github.com/charmbracelet/crush) | cli, oss | Built by Charm | |
 | [CTO.new](https://cto.new/) | gui | | |
-| [Cursor](https://cursor.com/) | ide, background | | |
+| [Cursor](https://cursor.com/) | ide, background | | [2x usage for Grok, Composer & new Cursor models](https://x.com/cursor_ai/status/2079615536963485815) |
 | [Deep Agents](https://github.com/langchain-ai/deepagents) | oss | Built by LangChain | |
 | [Devin](https://devin.ai/) | background | Built by Cognition | |
 | [Devin for Terminal](https://docs.devin.ai/desktop/models) | cli | Cognition's terminal agent | [SWE-1.7 free preview through Aug 8](https://docs.devin.ai/desktop/models) |
